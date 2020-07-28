@@ -8,7 +8,7 @@ import {
     Box
 } from '@material-ui/core';
 import indigo from '@material-ui/core/colors/indigo';
-import avatar from '../images/avatar.png'
+import avatar from '../../images/avatar.png'
 
 // CSS Styles
 const useStyles = makeStyles(theme => ({

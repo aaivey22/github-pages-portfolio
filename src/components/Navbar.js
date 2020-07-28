@@ -97,9 +97,6 @@ const menuItems = [
                         <IconButton onClick={toggleSlider("right", true)}>
                         <MenuOpen fontSize="large" style={{color: "#ffcca6"}} />
                         </IconButton>
-                        {/* <Typography variant="h5"style={{color: "tan"}}>
-                            View
-                        </Typography> */}
                         <MobileRightDrawer anchor="right"
                         open={state.right} close={toggleSlider("right", false)}>
                             {sideList("right")}

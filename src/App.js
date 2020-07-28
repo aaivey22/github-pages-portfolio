@@ -1,21 +1,23 @@
 import React from 'react';
 import { BrowserRouter as Router, Route } from 'react-router-dom';
 import './App.css';
-import About from './pages/about';
+import About from './pages/About/index';
+import Experience from './pages/Experience/index';
 import Navbar from './components/Navbar';
 import CssBaseline from '@material-ui/core/CssBaseline';
 
 function App() {
   return (
-    <Router>
-      <div className="App">
-        <CssBaseline />
+    <div className="Main">
+      <CssBaseline />
+      <Router>
         <div>
-          <Navbar />
-          <Route exact path="/" component={About} />
+        <Navbar />
+        <Route exact path="/" component={About} />
+        <Route exact path="/experience" component={Experience} />
         </div>
-      </div>
-    </Router>
+      </Router>
+    </div>
   );
 }
 

@@ -1,8 +1,8 @@
 import React from 'react';
-import Header from '../../components/Header';
+import Header from '../../components/Header/Header';
 
 
-function About(props) {
+function About() {
     return (
         <div>
             <Header />
