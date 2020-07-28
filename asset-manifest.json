@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/github-pages-portfolio/static/css/main.0588b2b9.chunk.css",
-    "main.js": "/github-pages-portfolio/static/js/main.19d57422.chunk.js",
-    "main.js.map": "/github-pages-portfolio/static/js/main.19d57422.chunk.js.map",
+    "main.css": "/github-pages-portfolio/static/css/main.16bd002f.chunk.css",
+    "main.js": "/github-pages-portfolio/static/js/main.9498e21b.chunk.js",
+    "main.js.map": "/github-pages-portfolio/static/js/main.9498e21b.chunk.js.map",
     "runtime-main.js": "/github-pages-portfolio/static/js/runtime-main.5e463924.js",
     "runtime-main.js.map": "/github-pages-portfolio/static/js/runtime-main.5e463924.js.map",
-    "static/js/2.007e8c67.chunk.js": "/github-pages-portfolio/static/js/2.007e8c67.chunk.js",
-    "static/js/2.007e8c67.chunk.js.map": "/github-pages-portfolio/static/js/2.007e8c67.chunk.js.map",
+    "static/js/2.72c8c857.chunk.js": "/github-pages-portfolio/static/js/2.72c8c857.chunk.js",
+    "static/js/2.72c8c857.chunk.js.map": "/github-pages-portfolio/static/js/2.72c8c857.chunk.js.map",
     "index.html": "/github-pages-portfolio/index.html",
-    "precache-manifest.20090715097ed393d09d1986abb9281e.js": "/github-pages-portfolio/precache-manifest.20090715097ed393d09d1986abb9281e.js",
+    "precache-manifest.fba29ee2bd3c5c40b0dc3519d5d39e2b.js": "/github-pages-portfolio/precache-manifest.fba29ee2bd3c5c40b0dc3519d5d39e2b.js",
     "service-worker.js": "/github-pages-portfolio/service-worker.js",
-    "static/css/main.0588b2b9.chunk.css.map": "/github-pages-portfolio/static/css/main.0588b2b9.chunk.css.map",
-    "static/js/2.007e8c67.chunk.js.LICENSE.txt": "/github-pages-portfolio/static/js/2.007e8c67.chunk.js.LICENSE.txt",
+    "static/css/main.16bd002f.chunk.css.map": "/github-pages-portfolio/static/css/main.16bd002f.chunk.css.map",
+    "static/js/2.72c8c857.chunk.js.LICENSE.txt": "/github-pages-portfolio/static/js/2.72c8c857.chunk.js.LICENSE.txt",
     "static/media/avatar.png": "/github-pages-portfolio/static/media/avatar.5b16128d.png",
     "static/media/App.css": "/github-pages-portfolio/static/media/rockymtn.ac172f94.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.5e463924.js",
-    "static/js/2.007e8c67.chunk.js",
-    "static/css/main.0588b2b9.chunk.css",
-    "static/js/main.19d57422.chunk.js"
+    "static/js/2.72c8c857.chunk.js",
+    "static/css/main.16bd002f.chunk.css",
+    "static/js/main.9498e21b.chunk.js"
   ]
 }
