@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Route } from 'react-router-dom';
+import { Link, BrowserRouter as Router, Route } from 'react-router-dom';
 import './App.css';
 import About from './pages/About/index';
 import Experience from './pages/Experience/index';
@@ -13,7 +13,9 @@ function App() {
       <Router>
         <div>
         <Navbar />
+        <Link to="/" />
         <Route exact path="/" component={About} />
+        <Route exact path="/about" component={About} />
         <Route exact path="/experience" component={Experience} />
         </div>
       </Router>
