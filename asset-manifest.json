@@ -1,24 +1,30 @@
 {
   "files": {
     "main.css": "/github-pages-portfolio/static/css/main.b3d2cba4.chunk.css",
-    "main.js": "/github-pages-portfolio/static/js/main.f38eee16.chunk.js",
-    "main.js.map": "/github-pages-portfolio/static/js/main.f38eee16.chunk.js.map",
+    "main.js": "/github-pages-portfolio/static/js/main.ca3f5c20.chunk.js",
+    "main.js.map": "/github-pages-portfolio/static/js/main.ca3f5c20.chunk.js.map",
     "runtime-main.js": "/github-pages-portfolio/static/js/runtime-main.5e463924.js",
     "runtime-main.js.map": "/github-pages-portfolio/static/js/runtime-main.5e463924.js.map",
-    "static/js/2.6ca21f25.chunk.js": "/github-pages-portfolio/static/js/2.6ca21f25.chunk.js",
-    "static/js/2.6ca21f25.chunk.js.map": "/github-pages-portfolio/static/js/2.6ca21f25.chunk.js.map",
+    "static/js/2.ed5350ca.chunk.js": "/github-pages-portfolio/static/js/2.ed5350ca.chunk.js",
+    "static/js/2.ed5350ca.chunk.js.map": "/github-pages-portfolio/static/js/2.ed5350ca.chunk.js.map",
     "index.html": "/github-pages-portfolio/index.html",
-    "precache-manifest.567f46cb8c32142b426baacd10e516d3.js": "/github-pages-portfolio/precache-manifest.567f46cb8c32142b426baacd10e516d3.js",
+    "precache-manifest.193b460225abc62c0e6b033f5399c5e1.js": "/github-pages-portfolio/precache-manifest.193b460225abc62c0e6b033f5399c5e1.js",
     "service-worker.js": "/github-pages-portfolio/service-worker.js",
     "static/css/main.b3d2cba4.chunk.css.map": "/github-pages-portfolio/static/css/main.b3d2cba4.chunk.css.map",
-    "static/js/2.6ca21f25.chunk.js.LICENSE.txt": "/github-pages-portfolio/static/js/2.6ca21f25.chunk.js.LICENSE.txt",
+    "static/js/2.ed5350ca.chunk.js.LICENSE.txt": "/github-pages-portfolio/static/js/2.ed5350ca.chunk.js.LICENSE.txt",
     "static/media/avatar.png": "/github-pages-portfolio/static/media/avatar.5b16128d.png",
+    "static/media/burger-meister-gif.gif": "/github-pages-portfolio/static/media/burger-meister-gif.31e9ad7b.gif",
+    "static/media/inspirit.JPG": "/github-pages-portfolio/static/media/inspirit.a76b055e.JPG",
+    "static/media/jotter.gif": "/github-pages-portfolio/static/media/jotter.3e45985e.gif",
+    "static/media/myFamiliar.png": "/github-pages-portfolio/static/media/myFamiliar.160feb50.png",
+    "static/media/overYonder.gif": "/github-pages-portfolio/static/media/overYonder.98cb1393.gif",
+    "static/media/read.gif": "/github-pages-portfolio/static/media/read.06cb3ad0.gif",
     "static/media/App.css": "/github-pages-portfolio/static/media/rockymtn.ac172f94.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.5e463924.js",
-    "static/js/2.6ca21f25.chunk.js",
+    "static/js/2.ed5350ca.chunk.js",
     "static/css/main.b3d2cba4.chunk.css",
-    "static/js/main.f38eee16.chunk.js"
+    "static/js/main.ca3f5c20.chunk.js"
   ]
 }
