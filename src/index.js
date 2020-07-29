@@ -1,11 +1,36 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import App from './App';
+import React from "react";
+import ReactDOM from "react-dom";
+import App from "./App";
 
-ReactDOM.render(
-    <App />,
-  document.getElementById('root')
-);
+ReactDOM.render(<App />, document.getElementById("root"));
+
+
+
+
+
+
+
+
+
+
+
+
+// import React from 'react';
+// import App from './App';
+// import { Component } from 'react';
+
+// export default class Main extends Component {
+//     render() {
+        
+//         return (
+//             <div>
+//                 <App />
+//                 <p>A Full Stack Mern Developer</p>
+
+//             </div>
+//         )
+//     }
+// }
 
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.

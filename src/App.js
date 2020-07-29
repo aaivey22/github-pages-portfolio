@@ -1,25 +1,28 @@
 import React from 'react';
-import { Link, BrowserRouter as Router, Route } from 'react-router-dom';
+import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import './App.css';
 import About from './pages/About/index';
 import Experience from './pages/Experience/index';
 import Navbar from './components/Navbar';
+import Portfolio from './pages/Portfolio/index';
+import Contact from './pages/Contact/index';
 import CssBaseline from '@material-ui/core/CssBaseline';
 
 function App() {
   return (
-    <div className="Main">
-      <CssBaseline />
-      <Router>
-        <div>
+    <Router>
+    <CssBaseline />
+      <div className="Main">
         <Navbar />
-        <Link to="/" />
-        <Route exact path="/" component={About} />
-        <Route exact path="/about" component={About} />
-        <Route exact path="/experience" component={Experience} />
-        </div>
-      </Router>
-    </div>
+        <Switch>
+          <Route path="/" component={About} />
+          <Route exact path="/about" component={About} />
+          <Route exact path="/experience" component={Experience} />
+          <Route exact path="/portfolio" component={Portfolio} />
+          <Route exact path="/contact" component={Contact} />
+        </Switch>
+      </div>
+    </Router>
   );
 }
 
